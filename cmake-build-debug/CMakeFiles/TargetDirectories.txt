@@ -1,0 +1,3 @@
+C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/cmake-build-debug/CMakeFiles/ProgramowanieObiektoweC__.dir
+C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
