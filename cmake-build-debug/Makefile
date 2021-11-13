@@ -141,6 +141,168 @@ ProgramowanieObiektoweC__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/build
 .PHONY : ProgramowanieObiektoweC__/fast
 
+Lekcja2/Konstruktor1/konstruktor_1.obj: Lekcja2/Konstruktor1/konstruktor_1.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.obj
+
+# target to build an object file
+Lekcja2/Konstruktor1/konstruktor_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor1/konstruktor_1.cpp.obj
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.cpp.obj
+
+Lekcja2/Konstruktor1/konstruktor_1.i: Lekcja2/Konstruktor1/konstruktor_1.cpp.i
+
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor1/konstruktor_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor1/konstruktor_1.cpp.i
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.cpp.i
+
+Lekcja2/Konstruktor1/konstruktor_1.s: Lekcja2/Konstruktor1/konstruktor_1.cpp.s
+
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor1/konstruktor_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor1/konstruktor_1.cpp.s
+.PHONY : Lekcja2/Konstruktor1/konstruktor_1.cpp.s
+
+Lekcja2/Konstruktor2/konstruktor_2.obj: Lekcja2/Konstruktor2/konstruktor_2.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.obj
+
+# target to build an object file
+Lekcja2/Konstruktor2/konstruktor_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor2/konstruktor_2.cpp.obj
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.cpp.obj
+
+Lekcja2/Konstruktor2/konstruktor_2.i: Lekcja2/Konstruktor2/konstruktor_2.cpp.i
+
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor2/konstruktor_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor2/konstruktor_2.cpp.i
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.cpp.i
+
+Lekcja2/Konstruktor2/konstruktor_2.s: Lekcja2/Konstruktor2/konstruktor_2.cpp.s
+
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor2/konstruktor_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor2/konstruktor_2.cpp.s
+.PHONY : Lekcja2/Konstruktor2/konstruktor_2.cpp.s
+
+Lekcja2/Konstruktor_3/konstruktor_3.obj: Lekcja2/Konstruktor_3/konstruktor_3.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.obj
+
+# target to build an object file
+Lekcja2/Konstruktor_3/konstruktor_3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_3/konstruktor_3.cpp.obj
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.cpp.obj
+
+Lekcja2/Konstruktor_3/konstruktor_3.i: Lekcja2/Konstruktor_3/konstruktor_3.cpp.i
+
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor_3/konstruktor_3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_3/konstruktor_3.cpp.i
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.cpp.i
+
+Lekcja2/Konstruktor_3/konstruktor_3.s: Lekcja2/Konstruktor_3/konstruktor_3.cpp.s
+
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor_3/konstruktor_3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_3/konstruktor_3.cpp.s
+.PHONY : Lekcja2/Konstruktor_3/konstruktor_3.cpp.s
+
+Lekcja2/Konstruktor_4/konstruktor_4.obj: Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.obj
+
+# target to build an object file
+Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj
+
+Lekcja2/Konstruktor_4/konstruktor_4.i: Lekcja2/Konstruktor_4/konstruktor_4.cpp.i
+
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor_4/konstruktor_4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_4/konstruktor_4.cpp.i
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.cpp.i
+
+Lekcja2/Konstruktor_4/konstruktor_4.s: Lekcja2/Konstruktor_4/konstruktor_4.cpp.s
+
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor_4/konstruktor_4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_4/konstruktor_4.cpp.s
+.PHONY : Lekcja2/Konstruktor_4/konstruktor_4.cpp.s
+
+Lekcja2/Konstruktor_5/konstruktor_5.obj: Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.obj
+
+# target to build an object file
+Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj
+
+Lekcja2/Konstruktor_5/konstruktor_5.i: Lekcja2/Konstruktor_5/konstruktor_5.cpp.i
+
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor_5/konstruktor_5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_5/konstruktor_5.cpp.i
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.cpp.i
+
+Lekcja2/Konstruktor_5/konstruktor_5.s: Lekcja2/Konstruktor_5/konstruktor_5.cpp.s
+
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor_5/konstruktor_5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_5/konstruktor_5.cpp.s
+.PHONY : Lekcja2/Konstruktor_5/konstruktor_5.cpp.s
+
+Lekcja2/Konstruktor_6/konstruktor_6.obj: Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj
+
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.obj
+
+# target to build an object file
+Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj
+
+Lekcja2/Konstruktor_6/konstruktor_6.i: Lekcja2/Konstruktor_6/konstruktor_6.cpp.i
+
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.i
+
+# target to preprocess a source file
+Lekcja2/Konstruktor_6/konstruktor_6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.i
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.cpp.i
+
+Lekcja2/Konstruktor_6/konstruktor_6.s: Lekcja2/Konstruktor_6/konstruktor_6.cpp.s
+
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.s
+
+# target to generate assembly for a file
+Lekcja2/Konstruktor_6/konstruktor_6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.s
+.PHONY : Lekcja2/Konstruktor_6/konstruktor_6.cpp.s
+
 Lista1/Zadanie1_1/Zadanie1_1.obj: Lista1/Zadanie1_1/Zadanie1_1.cpp.obj
 
 .PHONY : Lista1/Zadanie1_1/Zadanie1_1.obj
@@ -285,6 +447,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ProgramowanieObiektoweC__
+	@echo ... Lekcja2/Konstruktor1/konstruktor_1.obj
+	@echo ... Lekcja2/Konstruktor1/konstruktor_1.i
+	@echo ... Lekcja2/Konstruktor1/konstruktor_1.s
+	@echo ... Lekcja2/Konstruktor2/konstruktor_2.obj
+	@echo ... Lekcja2/Konstruktor2/konstruktor_2.i
+	@echo ... Lekcja2/Konstruktor2/konstruktor_2.s
+	@echo ... Lekcja2/Konstruktor_3/konstruktor_3.obj
+	@echo ... Lekcja2/Konstruktor_3/konstruktor_3.i
+	@echo ... Lekcja2/Konstruktor_3/konstruktor_3.s
+	@echo ... Lekcja2/Konstruktor_4/konstruktor_4.obj
+	@echo ... Lekcja2/Konstruktor_4/konstruktor_4.i
+	@echo ... Lekcja2/Konstruktor_4/konstruktor_4.s
+	@echo ... Lekcja2/Konstruktor_5/konstruktor_5.obj
+	@echo ... Lekcja2/Konstruktor_5/konstruktor_5.i
+	@echo ... Lekcja2/Konstruktor_5/konstruktor_5.s
+	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.obj
+	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.i
+	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.s
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.obj
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.i
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.s
