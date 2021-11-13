@@ -21,6 +21,10 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/Lista1/Zadanie1_3/Zadanie1_3.cpp.obj: .
 
 CMakeFiles/ProgramowanieObiektoweC__.dir/Lista1/Zadanie1_4/Zadanie_1_4.cpp.obj: ../Lista1/Zadanie1_4/Zadanie_1_4.cpp
 
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj: ../Lista2/Zadanie2_1/Zadanie2_1.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj: ../Lista2/Zadanie2_2/Zadanie2_2.cpp
+
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja2/Konstruktor1/konstruktor_1.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja2/Konstruktor2/konstruktor_2.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja2/Konstruktor_3/konstruktor_3.h
@@ -31,5 +35,7 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_1/Zada
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_2/Zadanie1_2.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_3/Zadanie1_3.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_4/Zadanie_1_4.h
+CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista2/Zadanie2_1/Zadanie2_1.h
+CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista2/Zadanie2_2/Zadanie2_2.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../main.cpp
 

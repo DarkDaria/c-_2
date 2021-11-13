@@ -1,0 +1,18 @@
+1. Przeanalizować przykłady konstruktorów 1-5.
+
+2. Napisać klasę Punkt2D (uzupełnić plik Zadanie1.cpp).
+Klasa ma posiadać konstruktor domyślny i konstruktor argumentowy oraz destruktor.
+ Konstruktory oraz destruktor są "gadatliwe" (wypisują na ekran informacje o swoim działaniu).
+ Klasa ma też posiadać metodę obliczającą odległość między dwoma punktami
+ (pomocna strona: https://www.calculatorsoup.com/calculators/geometry-plane/distance-two-points.php ).
+
+
+3. Przeanalizować przykład z konstruktorem kopiującym i dodać taki konstruktor w klasie Punkt2D oraz użyć go w funkcji main().
+
+4. Przeanalizować i zanotować różnice między następującymi zapisami:
+
+    const Punkt2D * cptr = new Punkt2D;
+    Punkt2D const * cptr = new Punkt2D;
+    Punkt2D * const cptr = new Punkt2D;
+    const Punkt2D * const = new Punkt2D;
+    Punkt2D const * const cptr = new Punkt2D;

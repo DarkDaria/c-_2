@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja2/Konstruktor_6/konstruktor_6.cpp
+C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lista2/Zadanie2_1/Zadanie2_1.cpp
+math.h
+-
 iostream
+-
+cstdlib
 -
 

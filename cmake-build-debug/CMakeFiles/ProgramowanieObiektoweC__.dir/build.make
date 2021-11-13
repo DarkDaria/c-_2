@@ -218,6 +218,32 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja2\Konstruktor_6\konstruktor_6.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja2\Konstruktor_6\konstruktor_6.cpp.s
 
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj: ../Lista2/Zadanie2_1/Zadanie2_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_1\Zadanie2_1.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_1\Zadanie2_1.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_1\Zadanie2_1.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_1\Zadanie2_1.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_1\Zadanie2_1.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_1\Zadanie2_1.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj: ../Lista2/Zadanie2_2/Zadanie2_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_2\Zadanie2_2.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_2\Zadanie2_2.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_2\Zadanie2_2.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_2\Zadanie2_2.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lista2\Zadanie2_2\Zadanie2_2.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lista2\Zadanie2_2\Zadanie2_2.cpp.s
+
 # Object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj" \
@@ -230,7 +256,9 @@ ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_3/konstruktor_3.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj" \
-"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj"
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj"
 
 # External object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___EXTERNAL_OBJECTS =
@@ -246,11 +274,13 @@ ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_4/konstruktor_4.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_5/konstruktor_5.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/build.make
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/linklibs.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/objects1.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable ProgramowanieObiektoweC__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ProgramowanieObiektoweC__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ProgramowanieObiektoweC__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

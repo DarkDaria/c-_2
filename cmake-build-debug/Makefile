@@ -411,6 +411,60 @@ Lista1/Zadanie1_4/Zadanie_1_4.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista1/Zadanie1_4/Zadanie_1_4.cpp.s
 .PHONY : Lista1/Zadanie1_4/Zadanie_1_4.cpp.s
 
+Lista2/Zadanie2_1/Zadanie2_1.obj: Lista2/Zadanie2_1/Zadanie2_1.cpp.obj
+
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.obj
+
+# target to build an object file
+Lista2/Zadanie2_1/Zadanie2_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.obj
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.cpp.obj
+
+Lista2/Zadanie2_1/Zadanie2_1.i: Lista2/Zadanie2_1/Zadanie2_1.cpp.i
+
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.i
+
+# target to preprocess a source file
+Lista2/Zadanie2_1/Zadanie2_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.i
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.cpp.i
+
+Lista2/Zadanie2_1/Zadanie2_1.s: Lista2/Zadanie2_1/Zadanie2_1.cpp.s
+
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.s
+
+# target to generate assembly for a file
+Lista2/Zadanie2_1/Zadanie2_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_1/Zadanie2_1.cpp.s
+.PHONY : Lista2/Zadanie2_1/Zadanie2_1.cpp.s
+
+Lista2/Zadanie2_2/Zadanie2_2.obj: Lista2/Zadanie2_2/Zadanie2_2.cpp.obj
+
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.obj
+
+# target to build an object file
+Lista2/Zadanie2_2/Zadanie2_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.obj
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.cpp.obj
+
+Lista2/Zadanie2_2/Zadanie2_2.i: Lista2/Zadanie2_2/Zadanie2_2.cpp.i
+
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.i
+
+# target to preprocess a source file
+Lista2/Zadanie2_2/Zadanie2_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.i
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.cpp.i
+
+Lista2/Zadanie2_2/Zadanie2_2.s: Lista2/Zadanie2_2/Zadanie2_2.cpp.s
+
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.s
+
+# target to generate assembly for a file
+Lista2/Zadanie2_2/Zadanie2_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lista2/Zadanie2_2/Zadanie2_2.cpp.s
+.PHONY : Lista2/Zadanie2_2/Zadanie2_2.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -477,6 +531,12 @@ help:
 	@echo ... Lista1/Zadanie1_4/Zadanie_1_4.obj
 	@echo ... Lista1/Zadanie1_4/Zadanie_1_4.i
 	@echo ... Lista1/Zadanie1_4/Zadanie_1_4.s
+	@echo ... Lista2/Zadanie2_1/Zadanie2_1.obj
+	@echo ... Lista2/Zadanie2_1/Zadanie2_1.i
+	@echo ... Lista2/Zadanie2_1/Zadanie2_1.s
+	@echo ... Lista2/Zadanie2_2/Zadanie2_2.obj
+	@echo ... Lista2/Zadanie2_2/Zadanie2_2.i
+	@echo ... Lista2/Zadanie2_2/Zadanie2_2.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

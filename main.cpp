@@ -8,7 +8,8 @@
 #include "Lekcja2/Konstruktor_4/konstruktor_4.h"
 #include "Lekcja2/Konstruktor_5/konstruktor_5.h"
 #include "Lekcja2/Konstruktor_6/konstruktor_6.h"
-
+#include "Lista2/Zadanie2_1/Zadanie2_1.h"
+#include "Lista2/Zadanie2_2/Zadanie2_2.h"
 
 #include <iostream>
 
@@ -17,8 +18,10 @@ using namespace std;
 int main() {
     int numer;
     do {
-        cout<<"\n";
-        cout << "Czesc! wybierz numer zadania z listy: ";
+        cout << "\n~~~ Czesc! wybierz numer zadania z listy: ~~~\n";
+        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?";
+        cout << "\n- Wpisz \"0\" aby wyjsc\n";
+        cout << "WYBIERAM NUMER: ";
         cin >> numer;
         switch (numer) {
             case 1:
@@ -52,6 +55,10 @@ int main() {
             case 16:
                 konstruktor_6();
                 break;
+            case 21:
+                Zadanie2_1();
+            case 22:
+                Zadanie2_2();
             default:
                 break;
         }
