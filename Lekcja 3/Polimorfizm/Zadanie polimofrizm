@@ -1,0 +1,10 @@
+#include <iostream>
+
+1. Napisać program zawierający dwie klasy, które reprezentują dwa wybrane rodzaje figur (np. klasy Prostokat, Koło, Trojkat itp.),
+każda z tych klas ma umożliwiać stworzenie konkretnej instancji danego obiektu i posiadać metodę do policzenia pola tej figury.
+Metoda powinna mieć ten sam nagłówek w każdej z tych klas.
+
+2. Przeanalizować przykład polimorfizm.cpp.
+
+2. Dopisać trzecią klasę tak, by wykorzystać w programie mechanizm polimorfizmu. Przetestować działanie w funkcji main()
+np. przez utworzenie tablicy obiektów różnych klas i obliczenie sumy ich pól za pomocą pętli.

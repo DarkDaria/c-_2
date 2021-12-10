@@ -80,6 +80,36 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Dziedziczenie_1.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Dziedziczenie_1.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Dziedziczenie_2.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Dziedziczenie_2.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Lekcja3_1.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Dziedziczenie/Lekcja3_1.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_2.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_2.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Polimorfizm_1.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Polimorfizm_1.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja2/Konstruktor1/konstruktor_1.cpp">
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>

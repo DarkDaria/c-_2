@@ -37,8 +37,16 @@ int Zadanie2_2() {
 //    ptr->x = -4;
       //Punkt2D const * ptr = new Punkt2D; = const Punkt2D * ptr = new Punkt2D;  // ruchomy wskaznik stały obiekt
 //    Punkt2D * const ptr = new Punkt2D; //staly wskaznik zmienny obiekt
-//    const Punkt2D * const = new Punkt2D; //staly wskaznik staly obiekt
+//    const Punkt2D * const = new Punkt2D; //staly wskaznik staly obiekt brakuje po const nazwy zmiennej nie bedzie sie to kompilowac
 //    Punkt2D const * const ptr = new Punkt2D; //staly wskaznik staly obiekt
 
     return 0;
+}
+
+int fd(){
+    const Punkt2D * cptr = new Punkt2D;
+    Punkt2D const * cptr2 = new Punkt2D;
+    Punkt2D * const cptr3 = new Punkt2D;
+    const Punkt2D * const fdsa = new Punkt2D;
+    Punkt2D const * const cptr5 = new Punkt2D;
 }

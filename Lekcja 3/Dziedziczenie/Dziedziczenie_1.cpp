@@ -1,5 +1,62 @@
-//
-// Created by 48500 on 05.12.2021.
-//
+#include <iostream>
 
-#include "Dziedziczenie_1.h"
+class X {
+private:
+    int a;
+    int b;
+public:
+
+    X(int ap = 0, int bp = 0) : a(ap), b(bp) {
+        std::cout << "Kontruktor X \n";
+    };
+
+    void wypisz() {
+        std::cout << "a= " << a << "\n";
+        std::cout << "b= " << b << "\n";
+    };
+
+    ~X() {
+        std::cout << "Destruktor X\n";
+    };
+};
+
+class Y : public X {
+private:
+    int c;
+public:
+
+    Y(int ap = 0, int bp = 0, int cp = 0) : X(ap, bp), c(cp) {
+        std::cout << "Konstruktor Y \n";
+    };
+
+    void wypisz_c() {
+        std::cout << "c= " << c << "\n";
+    };
+
+    void wypisz() {
+        X::wypisz();
+        wypisz_c();
+    };
+
+    ~Y() {
+        std::cout << "Destruktor Y\n";
+    };
+};
+
+int Dziedziczenie_1() {
+    {
+        std::cout << "X:\n";
+        X x(1, 2);
+        x.wypisz();
+    }
+
+    std::cout << "\n";
+
+    {
+        std::cout << "Y:\n";
+        Y y(3, 4, 5);
+        y.wypisz();
+    }
+
+    return 0;
+}

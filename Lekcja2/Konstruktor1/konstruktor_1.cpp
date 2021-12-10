@@ -22,7 +22,7 @@ public:
 int konstruktor_1()
 {
     X x;
-
+    
     std::cout << "a= " << x.a << '\n';
     std::cout << "b= " << x.b << '\n';
 

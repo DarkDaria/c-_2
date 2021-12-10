@@ -23,8 +23,11 @@ public:
 int konstruktor_5()
 {
     X x(10,11);
+
     std::cout << "a= " << x.a << '\n';
     std::cout << "b= " << x.b << '\n';
+
+   // X y;
 
     return 0;
 }

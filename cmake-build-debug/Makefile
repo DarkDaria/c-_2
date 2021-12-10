@@ -303,6 +303,141 @@ Lekcja2/Konstruktor_6/konstruktor_6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja2/Konstruktor_6/konstruktor_6.cpp.s
 .PHONY : Lekcja2/Konstruktor_6/konstruktor_6.cpp.s
 
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj: Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj
+
+# target to build an object file
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj
+
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.i: Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.i
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.i
+
+# target to preprocess a source file
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.i
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.i
+
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.s: Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.s
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.s
+
+# target to generate assembly for a file
+Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.s
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.s
+
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.obj: Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.obj
+
+# target to build an object file
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj
+
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.i: Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.i
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.i
+
+# target to preprocess a source file
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.i
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.i
+
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.s: Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.s
+
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.s
+
+# target to generate assembly for a file
+Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.s
+.PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.s
+
+Lekcja_3/Dziedziczenie/Lekcja3_1.obj: Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj
+
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.obj
+
+# target to build an object file
+Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj
+
+Lekcja_3/Dziedziczenie/Lekcja3_1.i: Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.i
+
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.i
+
+# target to preprocess a source file
+Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.i
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.i
+
+Lekcja_3/Dziedziczenie/Lekcja3_1.s: Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.s
+
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.s
+
+# target to generate assembly for a file
+Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.s
+.PHONY : Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.s
+
+Lekcja_3/Polimorfizm/Lekcja3_2.obj: Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj
+
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.obj
+
+# target to build an object file
+Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj
+
+Lekcja_3/Polimorfizm/Lekcja3_2.i: Lekcja_3/Polimorfizm/Lekcja3_2.cpp.i
+
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.i
+
+# target to preprocess a source file
+Lekcja_3/Polimorfizm/Lekcja3_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.i
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.cpp.i
+
+Lekcja_3/Polimorfizm/Lekcja3_2.s: Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s
+
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.s
+
+# target to generate assembly for a file
+Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s
+.PHONY : Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s
+
+Lekcja_3/Polimorfizm/Polimorfizm_1.obj: Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj
+
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.obj
+
+# target to build an object file
+Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj
+
+Lekcja_3/Polimorfizm/Polimorfizm_1.i: Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.i
+
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.i
+
+# target to preprocess a source file
+Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.i
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.i
+
+Lekcja_3/Polimorfizm/Polimorfizm_1.s: Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.s
+
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.s
+
+# target to generate assembly for a file
+Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.s
+.PHONY : Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.s
+
 Lista1/Zadanie1_1/Zadanie1_1.obj: Lista1/Zadanie1_1/Zadanie1_1.cpp.obj
 
 .PHONY : Lista1/Zadanie1_1/Zadanie1_1.obj
@@ -519,6 +654,21 @@ help:
 	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.obj
 	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.i
 	@echo ... Lekcja2/Konstruktor_6/konstruktor_6.s
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.i
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.s
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_2.obj
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_2.i
+	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_2.s
+	@echo ... Lekcja_3/Dziedziczenie/Lekcja3_1.obj
+	@echo ... Lekcja_3/Dziedziczenie/Lekcja3_1.i
+	@echo ... Lekcja_3/Dziedziczenie/Lekcja3_1.s
+	@echo ... Lekcja_3/Polimorfizm/Lekcja3_2.obj
+	@echo ... Lekcja_3/Polimorfizm/Lekcja3_2.i
+	@echo ... Lekcja_3/Polimorfizm/Lekcja3_2.s
+	@echo ... Lekcja_3/Polimorfizm/Polimorfizm_1.obj
+	@echo ... Lekcja_3/Polimorfizm/Polimorfizm_1.i
+	@echo ... Lekcja_3/Polimorfizm/Polimorfizm_1.s
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.obj
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.i
 	@echo ... Lista1/Zadanie1_1/Zadanie1_1.s

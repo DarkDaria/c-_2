@@ -18,4 +18,15 @@ add_executable(ProgramowanieObiektoweC__ main.cpp Lista1/Zadanie1_1/Zadanie1_1.c
         Lekcja2/Konstruktor_5/konstruktor_5.cpp
         Lekcja2/Konstruktor_5/konstruktor_5.h
         Lekcja2/Konstruktor_6/konstruktor_6.cpp
-        Lekcja2/Konstruktor_6/konstruktor_6.h Lista2/Zadanie2_1/Zadanie2_1.cpp Lista2/Zadanie2_1/Zadanie2_1.h Lista2/Zadanie2_2/Zadanie2_2.cpp Lista2/Zadanie2_2/Zadanie2_2.h)
+        Lekcja2/Konstruktor_6/konstruktor_6.h
+        Lista2/Zadanie2_1/Zadanie2_1.cpp
+        Lista2/Zadanie2_1/Zadanie2_1.h
+        Lista2/Zadanie2_2/Zadanie2_2.cpp
+        Lista2/Zadanie2_2/Zadanie2_2.h
+        "Lekcja 3/Dziedziczenie/Dziedziczenie_1.cpp"
+        "Lekcja 3/Dziedziczenie/Dziedziczenie_1.h"
+        "Lekcja 3/Dziedziczenie/Dziedziczenie_2.cpp"
+        "Lekcja 3/Dziedziczenie/Dziedziczenie_2.h"
+        "Lekcja 3/Dziedziczenie/Lekcja3_1.cpp"
+        "Lekcja 3/Dziedziczenie/Lekcja3_1.h" "Lekcja 3/Polimorfizm/Polimorfizm_1.cpp" "Lekcja 3/Polimorfizm/Polimorfizm_1.h" "Lekcja 3/Polimorfizm/Lekcja3_2.cpp" "Lekcja 3/Polimorfizm/Lekcja3_2.h")
+

@@ -39,6 +39,11 @@ int konstruktor_6()
     std::cout << "x3.a= " << x3.a << '\n';
     std::cout << "x3.b= " << x3.b << '\n';
 
+    X* ptr = &x1;
+    int b1 =(*ptr).b;
+    int b2 = ptr->b;
+//  b1 i b2 to to samo, zapis ze strzalka to po prostu drugi, krotszy zapis.
+
     return 0;
 }
 

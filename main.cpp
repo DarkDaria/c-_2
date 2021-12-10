@@ -10,6 +10,11 @@
 #include "Lekcja2/Konstruktor_6/konstruktor_6.h"
 #include "Lista2/Zadanie2_1/Zadanie2_1.h"
 #include "Lista2/Zadanie2_2/Zadanie2_2.h"
+#include "Lekcja 3/Dziedziczenie/Dziedziczenie_1.h"
+#include "Lekcja 3/Dziedziczenie/Dziedziczenie_2.h"
+#include "Lekcja 3/Dziedziczenie/Lekcja3_1.h"
+#include "Lekcja 3/Polimorfizm/Polimorfizm_1.h"
+
 
 #include <iostream>
 
@@ -19,7 +24,7 @@ int main() {
     int numer;
     do {
         cout << "\n~~~ Czesc! wybierz numer zadania z listy: ~~~\n";
-        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?";
+        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?\n Dziedziczenie od 31";
         cout << "\n- Wpisz \"0\" aby wyjsc\n";
         cout << "WYBIERAM NUMER: ";
         cin >> numer;
@@ -57,8 +62,22 @@ int main() {
                 break;
             case 21:
                 Zadanie2_1();
+                break;
             case 22:
                 Zadanie2_2();
+                break;
+            case 31:
+                Dziedziczenie_1();
+                break;
+            case 32:
+                Dziedziczenie_2();
+                break;
+            case 33:
+                Lekcja3_1();
+                break;
+            case 34:
+                Polimorfizm_1();
+                break;
             default:
                 break;
         }
