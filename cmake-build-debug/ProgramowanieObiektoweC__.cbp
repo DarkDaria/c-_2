@@ -104,10 +104,34 @@
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_2.h">
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_3.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_3.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_4.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Lekcja3_4.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Polimorfizm_1.cpp">
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/Polimorfizm_1.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/przeciazenie1.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/przeciazenie1.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/przeciazenie2.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja 3/Polimorfizm/przeciazenie2.h">
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja2/Konstruktor1/konstruktor_1.cpp">
@@ -144,6 +168,18 @@
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja2/Konstruktor_6/konstruktor_6.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja4/product.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja4/product.h">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja4/ulamek.cpp">
+			<Option target="ProgramowanieObiektoweC__"/>
+		</Unit>
+		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja4/ulamek.h">
 			<Option target="ProgramowanieObiektoweC__"/>
 		</Unit>
 		<Unit filename="C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lista1/Zadanie1_1/Zadanie1_1.cpp">

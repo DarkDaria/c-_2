@@ -14,7 +14,14 @@
 #include "Lekcja 3/Dziedziczenie/Dziedziczenie_2.h"
 #include "Lekcja 3/Dziedziczenie/Lekcja3_1.h"
 #include "Lekcja 3/Polimorfizm/Polimorfizm_1.h"
+#include "Lekcja 3/Polimorfizm/Lekcja3_2.h"
+#include "Lekcja 3/Polimorfizm/Lekcja3_3.h"
+#include "Lekcja 3/Polimorfizm/Lekcja3_4.h"
+#include "Lekcja 3/Polimorfizm/przeciazenie1.h"
+#include "Lekcja 3/Polimorfizm/przeciazenie2.h"
 
+#include "Lekcja4/product.h"
+#include "Lekcja4/ulamek.h"
 
 #include <iostream>
 
@@ -24,10 +31,12 @@ int main() {
     int numer;
     do {
         cout << "\n~~~ Czesc! wybierz numer zadania z listy: ~~~\n";
-        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?\n Dziedziczenie od 31";
+        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?\n Dziedziczenie od 31\nUlamek 40\nProdukt 41";
         cout << "\n- Wpisz \"0\" aby wyjsc\n";
         cout << "WYBIERAM NUMER: ";
         cin >> numer;
+        cout << "~~~~~~~~~~~~~~~~~~\n";
+
         switch (numer) {
             case 1:
                 Zadanie1_1();
@@ -78,6 +87,27 @@ int main() {
             case 34:
                 Polimorfizm_1();
                 break;
+            case 35:
+                //figura
+                Lekcja3_2();
+                break;
+            case 36:
+                Lekcja3_3();
+                break;
+//            case 37:
+//                Lekcja3_4(); // wywala programm
+                break;
+//            case 38:
+//                przeciazenie1();
+//                break;
+//            case 39:
+//                przeciazenie2();
+                break;
+            case 40:
+                ulamek();
+                break;
+            case 41:
+                product();
             default:
                 break;
         }

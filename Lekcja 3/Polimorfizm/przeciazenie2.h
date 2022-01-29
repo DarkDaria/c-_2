@@ -1,0 +1,8 @@
+//
+// Created by 48500 on 11.12.2021.
+//
+
+#ifndef LEKCJA3_1_CPP_PRZECIAZENIE2_H
+#define LEKCJA3_1_CPP_PRZECIAZENIE2_H
+int przeciazenie2();
+#endif //LEKCJA3_1_CPP_PRZECIAZENIE2_H

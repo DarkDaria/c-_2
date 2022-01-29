@@ -4,5 +4,5 @@
 
 #ifndef LEKCJA3_1_CPP_LEKCJA3_2_H
 #define LEKCJA3_1_CPP_LEKCJA3_2_H
-
+int Lekcja3_2();
 #endif //LEKCJA3_1_CPP_LEKCJA3_2_H

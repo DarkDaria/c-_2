@@ -309,6 +309,84 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_2.cpp" -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_2.cpp.s
 
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.obj: ../Lekcja\ 3/Polimorfizm/Lekcja3_4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_4.cpp.obj -c "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_4.cpp"
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_4.cpp" > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_4.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_4.cpp" -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_4.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.obj: ../Lekcja\ 3/Polimorfizm/Lekcja3_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_3.cpp.obj -c "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_3.cpp"
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_3.cpp" > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_3.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\Lekcja3_3.cpp" -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\Lekcja3_3.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj: ../Lekcja\ 3/Polimorfizm/przeciazenie1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie1.cpp.obj -c "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie1.cpp"
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie1.cpp" > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie1.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie1.cpp" -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie1.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj: ../Lekcja\ 3/Polimorfizm/przeciazenie2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie2.cpp.obj -c "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie2.cpp"
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie2.cpp" > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie2.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja 3\Polimorfizm\przeciazenie2.cpp" -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja_3\Polimorfizm\przeciazenie2.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj: ../Lekcja4/ulamek.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\ulamek.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\ulamek.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\ulamek.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\ulamek.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\ulamek.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\ulamek.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj: ../Lekcja4/product.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\product.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\product.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\product.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\product.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\product.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\product.cpp.s
+
 # Object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj" \
@@ -328,7 +406,13 @@ ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj" \
-"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj"
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj"
 
 # External object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___EXTERNAL_OBJECTS =
@@ -351,11 +435,17 @@ ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Lekcja3_1.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Polimorfizm_1.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_2.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_4.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/Lekcja3_3.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/build.make
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/linklibs.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/objects1.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable ProgramowanieObiektoweC__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable ProgramowanieObiektoweC__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ProgramowanieObiektoweC__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
