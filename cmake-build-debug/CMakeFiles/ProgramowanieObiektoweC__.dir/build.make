@@ -387,6 +387,45 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja4\product.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja4\product.cpp.s
 
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj: ../Lekcja5/template.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\template.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\template.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\template.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\template.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\template.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\template.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj: ../Lekcja5/stl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\stl.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\stl.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\stl.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\stl.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\stl.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\stl.cpp.s
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj: CMakeFiles/ProgramowanieObiektoweC__.dir/flags.make
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj: ../Lekcja5/swap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\swap.cpp.obj -c C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\swap.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\swap.cpp > CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\swap.cpp.i
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\Lekcja5\swap.cpp -o CMakeFiles\ProgramowanieObiektoweC__.dir\Lekcja5\swap.cpp.s
+
 # Object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj" \
@@ -412,7 +451,10 @@ ProgramowanieObiektoweC___OBJECTS = \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie1.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj" \
 "CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj" \
-"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj"
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj" \
+"CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj"
 
 # External object files for target ProgramowanieObiektoweC__
 ProgramowanieObiektoweC___EXTERNAL_OBJECTS =
@@ -441,11 +483,14 @@ ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Polimorfizm/przeciazenie2.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj
+ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/build.make
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/linklibs.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/objects1.rsp
 ProgramowanieObiektoweC__.exe: CMakeFiles/ProgramowanieObiektoweC__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable ProgramowanieObiektoweC__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\48500\Desktop\Studia\programowanie\ProgramowanieObiektoweC++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable ProgramowanieObiektoweC__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ProgramowanieObiektoweC__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

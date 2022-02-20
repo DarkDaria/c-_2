@@ -19,10 +19,13 @@
 #include "Lekcja 3/Polimorfizm/Lekcja3_4.h"
 #include "Lekcja 3/Polimorfizm/przeciazenie1.h"
 #include "Lekcja 3/Polimorfizm/przeciazenie2.h"
+#include "Lekcja5/template.h"
+#include "Lekcja5/stl.h"
+
 
 #include "Lekcja4/product.h"
 #include "Lekcja4/ulamek.h"
-
+#include "Lekcja5/swap.h"
 #include <iostream>
 
 using namespace std;
@@ -31,7 +34,7 @@ int main() {
     int numer;
     do {
         cout << "\n~~~ Czesc! wybierz numer zadania z listy: ~~~\n";
-        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?\n Dziedziczenie od 31\nUlamek 40\nProdukt 41";
+        cout << "- Lista 1: Numery od 1-10\n- Konstruktory od 11 do 16\n- Lista 2 od 21-?\n Dziedziczenie od 31\nUlamek 40\nProdukt 41\ntemplate 42\n stl 43";
         cout << "\n- Wpisz \"0\" aby wyjsc\n";
         cout << "WYBIERAM NUMER: ";
         cin >> numer;
@@ -108,6 +111,15 @@ int main() {
                 break;
             case 41:
                 product();
+            case 42:
+                szablon();
+                break;
+            case 43:
+                stl();
+                break;
+            case 44:
+                swap();
+                break;
             default:
                 break;
         }

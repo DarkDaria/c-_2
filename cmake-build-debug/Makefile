@@ -357,6 +357,87 @@ Lekcja4/ulamek.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.s
 .PHONY : Lekcja4/ulamek.cpp.s
 
+Lekcja5/stl.obj: Lekcja5/stl.cpp.obj
+
+.PHONY : Lekcja5/stl.obj
+
+# target to build an object file
+Lekcja5/stl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj
+.PHONY : Lekcja5/stl.cpp.obj
+
+Lekcja5/stl.i: Lekcja5/stl.cpp.i
+
+.PHONY : Lekcja5/stl.i
+
+# target to preprocess a source file
+Lekcja5/stl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.i
+.PHONY : Lekcja5/stl.cpp.i
+
+Lekcja5/stl.s: Lekcja5/stl.cpp.s
+
+.PHONY : Lekcja5/stl.s
+
+# target to generate assembly for a file
+Lekcja5/stl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.s
+.PHONY : Lekcja5/stl.cpp.s
+
+Lekcja5/swap.obj: Lekcja5/swap.cpp.obj
+
+.PHONY : Lekcja5/swap.obj
+
+# target to build an object file
+Lekcja5/swap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj
+.PHONY : Lekcja5/swap.cpp.obj
+
+Lekcja5/swap.i: Lekcja5/swap.cpp.i
+
+.PHONY : Lekcja5/swap.i
+
+# target to preprocess a source file
+Lekcja5/swap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.i
+.PHONY : Lekcja5/swap.cpp.i
+
+Lekcja5/swap.s: Lekcja5/swap.cpp.s
+
+.PHONY : Lekcja5/swap.s
+
+# target to generate assembly for a file
+Lekcja5/swap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.s
+.PHONY : Lekcja5/swap.cpp.s
+
+Lekcja5/template.obj: Lekcja5/template.cpp.obj
+
+.PHONY : Lekcja5/template.obj
+
+# target to build an object file
+Lekcja5/template.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj
+.PHONY : Lekcja5/template.cpp.obj
+
+Lekcja5/template.i: Lekcja5/template.cpp.i
+
+.PHONY : Lekcja5/template.i
+
+# target to preprocess a source file
+Lekcja5/template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.i
+.PHONY : Lekcja5/template.cpp.i
+
+Lekcja5/template.s: Lekcja5/template.cpp.s
+
+.PHONY : Lekcja5/template.s
+
+# target to generate assembly for a file
+Lekcja5/template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ProgramowanieObiektoweC__.dir\build.make CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.s
+.PHONY : Lekcja5/template.cpp.s
+
 Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj: Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj
 
 .PHONY : Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj
@@ -822,6 +903,15 @@ help:
 	@echo ... Lekcja4/ulamek.obj
 	@echo ... Lekcja4/ulamek.i
 	@echo ... Lekcja4/ulamek.s
+	@echo ... Lekcja5/stl.obj
+	@echo ... Lekcja5/stl.i
+	@echo ... Lekcja5/stl.s
+	@echo ... Lekcja5/swap.obj
+	@echo ... Lekcja5/swap.i
+	@echo ... Lekcja5/swap.s
+	@echo ... Lekcja5/template.obj
+	@echo ... Lekcja5/template.i
+	@echo ... Lekcja5/template.s
 	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.obj
 	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.i
 	@echo ... Lekcja_3/Dziedziczenie/Dziedziczenie_1.s

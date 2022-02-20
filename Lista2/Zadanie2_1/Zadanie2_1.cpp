@@ -18,6 +18,7 @@ public:
     }
 
     ~Punkt2D() {
+
         std::cout << "Dekonstruktor\n";
     }
 

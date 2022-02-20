@@ -17,6 +17,12 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/product.cpp.obj: ../Lekcja4/pro
 
 CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja4/ulamek.cpp.obj: ../Lekcja4/ulamek.cpp
 
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/stl.cpp.obj: ../Lekcja5/stl.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/swap.cpp.obj: ../Lekcja5/swap.cpp
+
+CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja5/template.cpp.obj: ../Lekcja5/template.cpp
+
 CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_1.cpp.obj: ../Lekcja\ 3/Dziedziczenie/Dziedziczenie_1.cpp
 
 CMakeFiles/ProgramowanieObiektoweC__.dir/Lekcja_3/Dziedziczenie/Dziedziczenie_2.cpp.obj: ../Lekcja\ 3/Dziedziczenie/Dziedziczenie_2.cpp
@@ -64,6 +70,9 @@ CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja2/Konstruktor_5/
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja2/Konstruktor_6/konstruktor_6.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja4/product.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja4/ulamek.h
+CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja5/stl.h
+CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja5/swap.h
+CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lekcja5/template.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_1/Zadanie1_1.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_2/Zadanie1_2.h
 CMakeFiles/ProgramowanieObiektoweC__.dir/main.cpp.obj: ../Lista1/Zadanie1_3/Zadanie1_3.h

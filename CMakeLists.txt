@@ -38,5 +38,5 @@ add_executable(ProgramowanieObiektoweC__ main.cpp Lista1/Zadanie1_1/Zadanie1_1.c
         "Lekcja 3/Polimorfizm/Lekcja3_3.cpp"
         "Lekcja 3/Polimorfizm/Lekcja3_3.h" "Lekcja 3/Polimorfizm/przeciazenie1.cpp"
         "Lekcja 3/Polimorfizm/przeciazenie1.h" "Lekcja 3/Polimorfizm/przeciazenie2.cpp"
-        "Lekcja 3/Polimorfizm/przeciazenie2.h" Lekcja4/ulamek.cpp Lekcja4/ulamek.h Lekcja4/product.cpp Lekcja4/product.h)
+        "Lekcja 3/Polimorfizm/przeciazenie2.h" Lekcja4/ulamek.cpp Lekcja4/ulamek.h Lekcja4/product.cpp Lekcja4/product.h Lekcja5/template.cpp Lekcja5/template.h Lekcja5/stl.cpp Lekcja5/stl.h Lekcja5/swap.cpp Lekcja5/swap.h)
 

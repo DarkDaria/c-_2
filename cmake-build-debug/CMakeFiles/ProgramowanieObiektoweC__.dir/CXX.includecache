@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja4/product.cpp
+C:/Users/48500/Desktop/Studia/programowanie/ProgramowanieObiektoweC++/Lekcja5/swap.cpp
 iostream
 -
-string
+stdexcept
 -
 
